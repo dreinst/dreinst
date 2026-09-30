@@ -20,18 +20,18 @@ Since August 2026 I work as Fullstack AI Engineer & Technical Lead at **D'Produc
 | [Drive Tech](https://drive-tech-sigma.vercel.app) | Booth booking for a weekend automotive market, with a live interactive venue map and a leasing module | Next.js 15, Supabase Realtime |
 | [Produksia](https://produksia.vercel.app) | Accounting system for event and wedding organizers: sales, purchasing, inventory, ledger, reports per event | Next.js 16, Prisma, PostgreSQL |
 | [D'Production](https://www.dpro.events) | Company site plus an internal dashboard for events, crew assignments, and crew pay | Next.js 16, Prisma, PostgreSQL |
-| [Production Book](https://easylearnn-seven.vercel.app) | A 24 week event management course with quizzes, work evidence, push reminders, and an "Ask AI" tutor | Next.js 16, Claude API |
+| [Production Book](https://easylearnn-seven.vercel.app) | A 24 week event management course with quizzes, work evidence, push reminders, and an "Ask AI" tutor | Next.js 16, LLM |
 | [LiveShuttle](https://liveshuttle.vercel.app) | Learn how driverless transport works, then watch a simulated autonomous shuttle drive around Ma Chung | JavaScript, 3D, OpenStreetMap |
-| [FinnFinn](https://github.com/dreinst/finnfinnbot) | Telegram bot that reads receipts with OCR and keeps personal finance records | Python, OCR |
-| [dprochatbot](https://github.com/dreinst/dprochatbot) | Event customer database with segmented WhatsApp broadcasts and opt-out handling | Node.js, SQLite |
-| [MCF Photobooth](https://github.com/dreinst/mcfbooth) | Photos go straight to Google Drive and guests download them by scanning a QR code | Python, Google Drive API |
+| FinnFinn | Telegram bot that reads receipts with OCR and keeps personal finance records | Python, OCR |
+| dprochatbot | Event customer database with segmented WhatsApp broadcasts and opt-out handling | Node.js, SQLite |
+| MCF Photobooth | Photos go straight to Google Drive and guests download them by scanning a QR code | Python, Google Drive API |
 
 ## Chatbots and automation
 
 - WhatsApp bots that confirm payments, answer FAQs, and send reminders. Messages go through an outbox with rate limits and office hours.
 - Telegram bots that turn a chat message into a finished invoice or receipt PDF, and that read receipts with OCR.
 - A Discord operations bot for server status, logs, deploy windows, and approval buttons.
-- LLM features built on the Claude API: a course tutor, customer service replies in the company's writing style, and AI agents that help run the servers.
+- LLM features: a course tutor, customer service replies in the company's writing style, and AI agents that help run the servers.
 
 ## Tools I use
 
