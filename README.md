@@ -15,13 +15,13 @@ Since August 2026 I work as Fullstack AI Engineer & Technical Lead at **D'Produc
 
 | Project | What it does | Stack |
 |---|---|---|
-| [KUWERA 5K](https://kuwera5k.vercel.app) | Fun run website with registration, QRIS payment, e-tickets, and a WhatsApp bot that confirms payments | Next.js 16, Prisma, PostgreSQL |
-| [Pet Blessing 2026](https://petblessings.vercel.app) | Registration for a church pet blessing event, QR check-in, and an arrival-order queue that keeps working offline | HTML, JavaScript, PostgreSQL |
-| [Drive Tech](https://drive-tech-sigma.vercel.app) | Booth booking for a weekend automotive market, with a live interactive venue map and a leasing module | Next.js 15, Supabase Realtime |
-| [Produksia](https://produksia.vercel.app) | Accounting system for event and wedding organizers: sales, purchasing, inventory, ledger, reports per event | Next.js 16, Prisma, PostgreSQL |
-| [D'Production](https://www.dpro.events) | Company site plus an internal dashboard for events, crew assignments, and crew pay | Next.js 16, Prisma, PostgreSQL |
-| [Production Book](https://easylearnn-seven.vercel.app) | A 24 week event management course with quizzes, work evidence, push reminders, and an "Ask AI" tutor | Next.js 16, LLM |
-| [LiveShuttle](https://liveshuttle.vercel.app) | Learn how driverless transport works, then watch a simulated autonomous shuttle drive around Ma Chung | JavaScript, 3D, OpenStreetMap |
+| KUWERA 5K | Fun run website with registration, QRIS payment, e-tickets, and a WhatsApp bot that confirms payments | Next.js 16, Prisma, PostgreSQL |
+| Pet Blessing 2026 | Registration for a church pet blessing event, QR check-in, and an arrival-order queue that keeps working offline | HTML, JavaScript, PostgreSQL |
+| Drive Tech | Booth booking for a weekend automotive market, with a live interactive venue map and a leasing module | Next.js 15, Supabase Realtime |
+| Produksia | Accounting system for event and wedding organizers: sales, purchasing, inventory, ledger, reports per event | Next.js 16, Prisma, PostgreSQL |
+| D'Production | Company site plus an internal dashboard for events, crew assignments, and crew pay | Next.js 16, Prisma, PostgreSQL |
+| Production Book | A 24 week event management course with quizzes, work evidence, push reminders, and an "Ask AI" tutor | Next.js 16, LLM |
+| LiveShuttle | Learn how driverless transport works, then watch a simulated autonomous shuttle drive around Ma Chung | JavaScript, 3D, OpenStreetMap |
 | FinnFinn | Telegram bot that reads receipts with OCR and keeps personal finance records | Python, OCR |
 | dprochatbot | Event customer database with segmented WhatsApp broadcasts and opt-out handling | Node.js, SQLite |
 | MCF Photobooth | Photos go straight to Google Drive and guests download them by scanning a QR code | Python, Google Drive API |
@@ -65,4 +65,4 @@ Sejak Agustus 2026 saya bekerja sebagai Fullstack AI Engineer & Technical Lead d
 
 </details>
 
-Open to freelance and collaboration. The fastest way to reach me is through [dreinst.tech](https://dreinst.tech).
+Open to freelance and collaboration. Project details and screenshots are on [dreinst.tech](https://dreinst.tech).
